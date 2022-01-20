@@ -1,0 +1,1 @@
+Acesse a documentação do projeto através do link http://localhost:8888/swagger-ui.html após subir a aplicação como uma aplicação Spring Boot.
